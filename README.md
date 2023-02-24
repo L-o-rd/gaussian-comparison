@@ -5,6 +5,8 @@
 * This algorithm is based on the recursive property of determinants.
 
 ## N x N Matrix determinant calculator
+![alt text](https://github.com/lordlra/gaussian-comparison/blob/main/images/matrix.png?raw=true)
 
 ## Small scale sample array of randomized matrices
 * The graph shows how efficient the Gauss - Jordan method is in comparison to the naive approach as the size of the matrix increases.
+![alt text](https://github.com/lordlra/gaussian-comparison/blob/main/images/graph.png?raw=true)
