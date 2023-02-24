@@ -78,7 +78,7 @@ public class Analyser extends JPanel {
 		g.drawString("Time taken (ms)", 65, 40);
 		
 		g.drawLine(50, 10, 45, 20);
-		g.drawLine(50, 15, 50, Window.HEIGHT - 10); 												/* Y AXIS */
+		g.drawLine(50, 15, 50, Window.HEIGHT - 10); 									/* Y AXIS */
 		g.drawLine(50, 10, 55, 20);
 		
 		for(int i = 1; i <= YSAMPLES; ++i) {
